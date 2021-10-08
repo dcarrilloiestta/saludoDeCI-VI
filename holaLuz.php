@@ -1,4 +1,5 @@
 <?php
- echo "como  estas ";
+ echo "hola soy Luz ";
+ echo "hola soy Luz ";
  
 ?>
